@@ -40,6 +40,3 @@ Contributions are welcome! If you find any issues or have improvements to sugges
 ## License
 This project is licensed under the [MIT License](LICENSE).
 
----
-
-Feel free to customize this text according to your project's specifics. Add more sections or details as needed. Providing clear instructions on how to run the project locally, showcasing the features, and explaining the architecture and dependencies can make your GitHub repository more informative and accessible to others.
